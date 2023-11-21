@@ -1,0 +1,17 @@
+{
+  "name": "aws_cognito_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^6.3.7",
+    "aws-sdk": "^2.1500.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
